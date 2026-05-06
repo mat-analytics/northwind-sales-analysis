@@ -4,11 +4,9 @@ I've analyzed Northwind 2000 Database from Kaggle.
 Main tool to prepare analysis: Excel.
 Additional tools: Power BI + SQL.
 
-
 **Dashboards 📉📈**
 ![Top Products](screenshots/dashboard_top_products.png)
 ![Categories](screenshots/dashboard_categories.png)
-
 
 **Conclusions ✅**
 ➡ The most saled item generated 11,17% of total income,
