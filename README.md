@@ -38,6 +38,7 @@ Additional tools: Power BI + SQL.
 
 
 
+
 **Data Source**
 
 [Northwind 2000 Database](https://www.kaggle.com/datasets/munawarsaudagar/northwind-2000-sqlite) — Kaggle (2,155 orders, 77 products, 8 categories, 21 countries)
