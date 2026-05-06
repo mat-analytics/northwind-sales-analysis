@@ -1,4 +1,4 @@
-#**Northwind Sales Analysis 📊📊**
+**#Northwind Sales Analysis 📊📊**
 
 I've analyzed Northwind 2000 Database from Kaggle.
 
