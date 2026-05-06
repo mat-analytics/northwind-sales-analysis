@@ -1,4 +1,4 @@
-**Northwind Sales Analysis 📊📊**
+#**Northwind Sales Analysis 📊📊**
 
 I've analyzed Northwind 2000 Database from Kaggle.
 
@@ -6,13 +6,13 @@ Main tool to prepare analysis: Excel.
 
 Additional tools: Power BI + SQL.
 
-**Dashboards 📉📈**
+#**Dashboards 📉📈**
 
 ![Top Products](screenshots/dashboard_top_products.png)
 
 ![Categories](screenshots/dashboard_categories.png)
 
-**Conclusions ✅**
+#**Conclusions ✅**
 
 ➡ The most saled item generated 11,17% of total income,
 
@@ -23,7 +23,7 @@ Additional tools: Power BI + SQL.
 ➡ CategoriesID: 1, 3 and 4 are TOP3 categories generating the most income. They stand for 52,91% of total income value.
 
 
-**Tools Used 🔧**
+#**Tools Used 🔧**
 
 **Power BI** - to create dashboards and visualize data
 
@@ -43,6 +43,6 @@ Additional tools: Power BI + SQL.
 
 
 
-**Data Source**
+#**Data Source**
 
 [Northwind 2000 Database](https://www.kaggle.com/datasets/munawarsaudagar/northwind-2000-sqlite) — Kaggle (2,155 orders, 77 products, 8 categories, 21 countries)
