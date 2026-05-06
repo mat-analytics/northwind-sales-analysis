@@ -27,11 +27,15 @@ Additional tools: Power BI + SQL.
 
 **Excel** - to organise and prepare the data using:
 
+
 ➡ LOOKUP formula,
+
 
 ➡ SUMIF and SUM formulas,
 
+
 ➡ PIVOT tables.
+
 
 
 **Data Source**
