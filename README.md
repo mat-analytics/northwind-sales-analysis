@@ -13,9 +13,13 @@ Additional tools: Power BI + SQL.
 ![Categories](screenshots/dashboard_categories.png)
 
 **Conclusions ✅**
+
 ➡ The most saled item generated 11,17% of total income,
+
 ➡ Top 3 saled items generated 23,14% of total income,
+
 ➡ Top 10 saled items generated 44,16% of total income,
+
 ➡ CategoriesID: 1, 3 and 4 are TOP3 categories generating the most income. They stand for 52,91% of total income value.
 
 
